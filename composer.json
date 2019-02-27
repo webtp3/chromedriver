@@ -1,5 +1,5 @@
 {
-    "name": "enm1989/chromedriver",
+    "name": "web-tp3/chromedriver",
     "description": "Composer distribution of Chromedriver. Adds a executable to your composer bin directory.",
     "type": "library",
     "keywords": [

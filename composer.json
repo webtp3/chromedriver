@@ -20,7 +20,7 @@
         "bin-dir": "bin"
     },
     "bin": [
-        "bin/chromedriver",
+        "bin/chromedriver_bin",
         "bin/chromedriver_osx"
     ]
 }
